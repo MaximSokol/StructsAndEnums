@@ -1,0 +1,7 @@
+D:\Study\Tasks made by me\Home codes\C#\StructsAndEnums\bin\Debug\StructsAndEnums.exe.config
+D:\Study\Tasks made by me\Home codes\C#\StructsAndEnums\bin\Debug\StructsAndEnums.exe
+D:\Study\Tasks made by me\Home codes\C#\StructsAndEnums\bin\Debug\StructsAndEnums.pdb
+D:\Study\Tasks made by me\Home codes\C#\StructsAndEnums\obj\Debug\StructsAndEnums.csproj.AssemblyReference.cache
+D:\Study\Tasks made by me\Home codes\C#\StructsAndEnums\obj\Debug\StructsAndEnums.csproj.CoreCompileInputs.cache
+D:\Study\Tasks made by me\Home codes\C#\StructsAndEnums\obj\Debug\StructsAndEnums.exe
+D:\Study\Tasks made by me\Home codes\C#\StructsAndEnums\obj\Debug\StructsAndEnums.pdb
